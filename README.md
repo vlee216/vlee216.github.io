@@ -1,3 +1,3 @@
 # Veronica Lee
 
-This is my student website. Testing.
+This is my student website. Testing the commit.
