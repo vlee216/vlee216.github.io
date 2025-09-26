@@ -1,6 +1,6 @@
-<img src="Veronica Lee Headshot.jpg" align="left" width="30%" height="30%">
-
 # Veronica Lee
+
+<img src="Veronica Lee Headshot.jpg" align="left" width="30%" height="30%" style="margin-right:15px; margin-bottom:10px;">
 
 Hello! I'm Veronica, a second-year Master's student at the University of Washington (UW) in the QERM program. I work in the lab of Dr. Tim Essington, the Marine Conservation and Ecology Group. My current work focuses on differing tolerances for hypoxia across marine species according to taxonomic groupings and connecting in-situ observations with laboratory experiments on hypoxia. More generally, I am interested in using habitat suitability modeling techniques to support conservation planning and predict potential responses to changing ocean conditions. I am also interested in techniques for working with low-quality data, citizen science data, and data from differing sources.
 
