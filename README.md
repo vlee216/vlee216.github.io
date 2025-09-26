@@ -1,4 +1,4 @@
-![A professional headshot of a person with brown curly hair and glasses smiling at the camera](Veronica Lee Headshot.jpg "Image of Veronica Lee")
+<img src="https://raw.githubusercontent.com/vlee216/vlee216.github.io/refs/heads/main/Veronica%20Lee%20Headshot.jpg" align="left" width=50% height=50%>
 
 # Veronica Lee
 
