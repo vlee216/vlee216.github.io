@@ -6,7 +6,7 @@ Hello! I'm Veronica, a second-year Master's student at the University of Washing
 
 # Education
 
-I started my time at UW in the Autumn 2024 quarter. Previously, I attended Georgia Tech from 2022 to 2024, earning my professional M.S. in Statistics. My undergraduate education was at New College of Florida from 2018 to 2022, where I received a BA in Statistics with a minor in Museum Studies. While at New College, I completed my undergraduate thesis on the subject of species distribution modeling for wading birds (see a photo of a snowy egret, below) using citizen science data from the eBird platform.
+I started my time at UW in the Autumn 2024 quarter. Previously, I attended Georgia Tech from 2022 to 2024, earning my professional M.S. in Statistics. My undergraduate education was at New College of Florida from 2018 to 2022, where I received a BA in Statistics with a minor in Museum Studies. While at New College, I completed my undergraduate thesis on the subject of species distribution modeling for wading birds (photo of a snowy egret included below) using citizen science data from the eBird platform.
 
 # Additional Interests
 
