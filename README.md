@@ -10,7 +10,7 @@ I started my time at UW in the Autumn 2024 quarter. Previously, I attended Georg
 
 # Additional Interests
 
-In my free time outside of my work as a graduate student, I like to go to Mariners games or relax at home with my rescue cat, Mirabel. I'm also often found walking the grounds of the Woodland Park Zoo. I am an amateur birder, and my favorite birds that I've seen in the wild are the magnificent frigatebird, American bittern, and crested caracara.
+In my free time outside of my work as a graduate student, I like to go to Mariners games or relax at home with my rescue cat I'm also often found walking the grounds of the Woodland Park Zoo. I am an amateur birder, and my favorite birds that I've seen in the wild are the magnificent frigatebird, American bittern, and crested caracara.
 
 # Contact
 
