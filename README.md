@@ -16,4 +16,4 @@ In my free time outside of my work as a graduate student, I like to go to Marine
 
 If you are interested in the QERM program or have any questions about my work, please feel free to reach out to me at valee@uw.edu!
 
-<img src="egret.jpg" align="left" width="30%" height="30%" style="margin-right:15px; margin-bottom:10px;">
+<img src="egret.JPG" align="left" width="30%" height="30%" style="margin-right:15px; margin-bottom:10px;">
