@@ -1,4 +1,4 @@
-<img src="Veronica Lee Headshot.jpg" align="left" width=30% height=30%>
+<img src="Veronica Lee Headshot.jpg" align="left" width="30%" height="30%">
 
 # Veronica Lee
 
