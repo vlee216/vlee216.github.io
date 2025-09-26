@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vlee216/vlee216.github.io/refs/heads/main/Veronica%20Lee%20Headshot.jpg" align="left" width=30% height=30%>
+<img src="Veronica Lee Headshot.jpg" align="left" width=30% height=30%>
 
 # Veronica Lee
 
