@@ -4,10 +4,6 @@ Hello! I'm Veronica, a second-year Master's student at the University of Washing
 
 <img src="Veronica Lee Headshot.jpg" align="left" width="30%" height="30%" style="margin-right:15px; margin-bottom:10px;">
 
-# My Research
-
-Information about my research and interests goes here.
-
 # Education
 
 I started my time at UW in the Autumn 2024 quarter. Previously, I attended Georgia Tech from 2022 to 2024, earning my professional M.S. in Statistics. My undergraduate education was at New College of Florida from 2018 to 2022, where I received a BA in Statistics with a minor in Museum Studies.
@@ -20,4 +16,4 @@ In my free time outside of my work as a graduate student, I like to go to Marine
 
 If you are interested in the QERM program or have any questions about my work, please feel free to reach out to me at valee@uw.edu!
 
-<img src="Veronica Lee Headshot.jpg" align="left" width="30%" height="30%" style="margin-right:15px; margin-bottom:10px;">
+<img src="IMG_0220 (2).jpg" align="left" width="30%" height="30%" style="margin-right:15px; margin-bottom:10px;">
